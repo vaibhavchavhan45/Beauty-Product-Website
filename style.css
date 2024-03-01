@@ -11,14 +11,14 @@ body {
 }
 
 body {
-    background-image: url(images/bg.jpg);
+    background-image: url(images/bg.webp);
     background-size: 100% 800px;
     background-attachment: fixed;
 }
 
 @font-face {
     font-family: butterfly;
-    src: url(butterfly.otf);
+    src: url(./butterfly.woff2);
     font-style: normal;
     font-weight: normal;
     font-display: swap;
